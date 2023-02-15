@@ -6,3 +6,5 @@ I am adding a new change
 
 
 More changes today 
+
+Changes for conflict
